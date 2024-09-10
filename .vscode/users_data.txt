@@ -1,0 +1,7 @@
+muhammed 19 Kinesthetic
+Mathematics 1
+Arts 0
+Computer Science 0
+Science 0
+History 0
+END
