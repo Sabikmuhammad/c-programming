@@ -9,7 +9,11 @@ struct Person {
 int main() {
     struct Person people[3];
 
-   
+
+
+
+
+    
     strcpy(people[0].name, "sabik");
     people[0].age = 19;
     people[0].height = 5.5;
